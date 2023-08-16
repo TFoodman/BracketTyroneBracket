@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @BracketTyroneBracket
-- 👀 I’m interested in ... undertale
-- 🌱 I’m currently learning ... undertale
-- 💞️ I’m looking to collaborate on ... undertale
-- 📫 How to reach me ... i'll reach you first, get th e fuck over here
+- Bracket Tyrone Bracket
+- [Tyrone]
 
 <!---
 BracketTyroneBracket/BracketTyroneBracket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
